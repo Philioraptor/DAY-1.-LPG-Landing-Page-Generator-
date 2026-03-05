@@ -1,0 +1,8 @@
+{
+  "projectId": "577e9f5c-8641-4315-9895-b5ba53df617a",
+  "createdAt": 1772728740918,
+  "startupCommands": [
+    "powershell -NoProfile -Command \"Set-Location -LiteralPath 'C:\\Users\\91808\\30days project build\\Day 1 LPG'; npm.cmd install; npm.cmd run dev\""
+  ],
+  "templateId": "any"
+}
