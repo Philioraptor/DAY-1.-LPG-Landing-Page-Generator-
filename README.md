@@ -75,4 +75,4 @@ A simple web app that generates landing pages from user input.
 - TailwindCSS
 - TypeScript
 - ## Deployment
->>>>>>> d23c9fbcf5b50b84144b83831529fc069b3a1481
+[>>>>>>> d23c9fbcf5b50b84144b83831529fc069b3a1481](https://day-1-lpg-landing-page-generator.vercel.app/)
