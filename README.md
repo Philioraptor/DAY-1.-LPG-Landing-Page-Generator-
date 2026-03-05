@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing Page Generator
 
 A single-page Next.js app that generates a marketing landing page from a form, previews it live, and exports a fully standalone `index.html` file.
@@ -61,3 +62,17 @@ See `.env.example` for reference.
 7. Click **Deploy**.
 
 After deployment, Vercel will provide your live URL.
+=======
+# DAY-1.-LPG-Landing-Page-Generator-
+A simple web app that generates landing pages from user input. 
+## Features 
+- Form based landing page generator
+- Live preview
+- Copy HTML
+- Download HTML file 
+## Tech Stack  
+- Next.js
+- TailwindCSS
+- TypeScript
+- ## Deployment
+>>>>>>> d23c9fbcf5b50b84144b83831529fc069b3a1481
